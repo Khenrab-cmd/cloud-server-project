@@ -11,8 +11,7 @@ This project sets up a **cloud-based portfolio website** on **AWS EC2**, using *
 - ✅ Fully documented for easy replication
 
 ## How to Access the Live Server
-🌍 **Live Link:** 54.252.153.105
-<img width="375" height="105" alt="image" src="https://github.com/user-attachments/assets/6b64ec4d-2394-4377-be39-febc3100b400" />
+🌍 **Live Link:** http://54.252.153.105/
 
 
 
