@@ -11,7 +11,9 @@ This project sets up a **cloud-based portfolio website** on **AWS EC2**, using *
 - ✅ Fully documented for easy replication
 
 ## How to Access the Live Server
-🌍 **Live Link:** [http://13.239.64.137](http://13.239.64.137)
+🌍 **Live Link:** 54.252.153.105
+
+
 ## Installation & Setup Instructions
 1. **Clone Repository:**  
    ```bash
